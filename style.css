@@ -1070,7 +1070,7 @@ ul.skills li.more input:checked + label:hover {
     }
     header .left
     {
-        margin-top: 25%;
+        margin-top: 100%;
         width: 100%;
     }
     header .right
